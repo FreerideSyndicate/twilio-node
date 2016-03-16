@@ -11,12 +11,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/twilio/twilio-node.git"
+    "url": "https://github.com/FreerideSyndicate/twilio-node.git"
   },
   "dependencies": {
     "request": "2.55.x",
     "underscore": "1.x",
-    "jsonwebtoken": "5.4.x",
     "jwt-simple": "0.1.x",
     "q": "0.9.7",
     "scmp": "0.0.3",
