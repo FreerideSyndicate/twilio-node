@@ -20,10 +20,6 @@
   "bugs": {
     "url": "https://github.com/auth0/node-jsonwebtoken/issues"
   },
-  "dependencies": {
-    "jws": "^3.0.0",
-    "ms": "^0.7.1"
-  },
   "devDependencies": {
     "atob": "^1.1.2",
     "chai": "^1.10.0",
