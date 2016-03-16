@@ -4,7 +4,7 @@ var fs = require('fs');
 var concat = require('./concat-stream');
 var base64url = require('index');
 var cli = require('./meow')({
-  pkg: '../package.json',
+  pkg: './package.json',
   help: [
     'Usage: base64url [-hvD] [-b num] [-i in_file] [-o out_file]',
     '  -h, --help     display this message',
